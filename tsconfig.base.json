@@ -15,7 +15,7 @@
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
     "paths": {
-      "@relate-by/data-graph": ["packages/graph/src/index.ts"]
+      "@relate-by/data-alga": ["packages/alga/src/index.ts"]
     }
   },
   "exclude": ["node_modules", "tmp"]
